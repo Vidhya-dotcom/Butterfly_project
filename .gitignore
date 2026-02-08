@@ -1,0 +1,7 @@
+"env/" 
+"__pycache__/" 
+"*.zip" 
+"*.rar" 
+"*.csv" 
+"*.pkl" 
+butterfly_cnn_model.h5
